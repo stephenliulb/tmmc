@@ -6,7 +6,7 @@ package com.stephen.assignment;
  * a. Output to console a message when invalid number of arguments are used.
  * b. Application must not crash. Any exception must be output to console.
  * 2. Accept a string representing the absolute path of the test image as the input.
- * a. Example C:\TMMC_interview_assignment\img_1.jpg
+ * a. Example C:\img_1.jpg
  * 3. Output a number representing the number of vertical lines.
  */
 public class VerticalLineScanner {

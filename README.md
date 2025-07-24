@@ -1,4 +1,4 @@
-# **Programming Assignment: Vertical Line Detection in Images**
+# **Programming: Vertical Line Detection in Images**
 
 This project implements a robust solution for counting vertical lines in images, emphasizing object-oriented design (OOD) principles and externalized configuration for maintainability.
 
@@ -42,8 +42,8 @@ The project demonstrates:
 ### **Execution Steps**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/stephenliulb/tmmc.git
-   cd tmmc
+   https://github.com/stephenliulb/ImageProcessor.git
+   cd ImageProcessor
 
 
 
@@ -54,7 +54,7 @@ The project demonstrates:
    ```
 
 3. **Run the test**:
-   - Check the pre-packaged jar file 'image-processor-1.0.jar' under the root folder (tmmc)
+   - Check the pre-packaged jar file 'image-processor-1.0.jar' under the root folder (ImageProcessor)
    - Test commands
     ```bash
     java -jar image-processor-1.0.jar img_1.jpg
